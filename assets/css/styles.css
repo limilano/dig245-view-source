@@ -1,9 +1,19 @@
 
 /* css */
-.bodyIMG {
+body {
   background-image: url(https://f2.toyhou.se/file/f2-toyhou-se/images/33306879_RZn3YXfdanC4dMP.png);
   background-repeat: repeat;
   margin: 0;
+  font-family: 'Fredoka One', cursive;
+  color: #637fad;
+}
+
+h1 {
+  color: #4e6385;
+}
+
+h3 {
+  color: #5a7299;
 }
 
 .container {
