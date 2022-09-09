@@ -32,8 +32,12 @@ ol {
   padding: 0;
 }
 
+ul {
+  padding: 0;
+}
+
 img {
-  max-width: 200px;
+  max-width: 300px;
   display: block;
   margin-left: auto;
   margin-right: auto;
